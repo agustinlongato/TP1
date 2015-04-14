@@ -1,4 +1,4 @@
-Carlos tiene 20 a±os, y pablo 25.
+Carlos tiene 20 aÂ±os y mide 1.87m, pablo tiene 25 y mide 1.72m.
 
 --------------------------------
 Process exited after 0.06123 seconds with return value 0
