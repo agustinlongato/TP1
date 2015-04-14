@@ -1,0 +1,5 @@
+Carlos tiene 20 a±os, y pablo 25.
+
+--------------------------------
+Process exited after 0.06123 seconds with return value 0
+Presione una tecla para continuar . . .
